@@ -9,6 +9,5 @@ public class Main {
         double notaDoFilme = 8.1;
         //Média calculada pelas 3 notas da Jack, Paulo e Suelem
         double media = (9.8 + 6.3 + 8) / 3;
-
     }
 }
